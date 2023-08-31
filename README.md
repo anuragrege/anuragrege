@@ -24,6 +24,7 @@ Here are some of the projects I've worked on or currently working on:
 🌐 [Mental Saviours](https://mentalsaviours.vercel.app/) - A currently desktop only website to help people cope up with mental health. Under development currently.<br/>
 🔥 [Portfolio Website](https://anuragrege.vercel.app) - My personal portfolio website built with just HTML, CSS and Javascript.<br/>
 ✈️ [Arisepoint Website](https://arisepoint.in) - Developed a website for a startup company
+👨‍⚕️ [DQCare Website](https://dqcare.in) - Developed a website for a startup company
 
 I love taking on new challenges and making ideas come to life through code! 💡
 
