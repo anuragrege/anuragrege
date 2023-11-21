@@ -13,7 +13,7 @@ I'm Anurag, a passionate Front-end Developer who's all about React and Next.js. 
 ### 🔧 Technologies & Tools
 
 🚀 JavaScript | TypeScript | HTML | CSS<br/>
-⚛️ React | Next.js | MongoDB<br/>
+⚛️ React | Next.js | Framer Motion<br/>
 🔧 Visual Studio Code | Git | GitHub<br/>
 
 ### 🚀 My Projects
@@ -21,8 +21,7 @@ I'm Anurag, a passionate Front-end Developer who's all about React and Next.js. 
 Here are some of the projects I've worked on or currently working on:
 
 🔍 [Swift Coding Club SRM Website](https://sccwebsite.netlify.app/) - The website for a student-run club in SRMIST. I helped develop the landing page.<br/>
-🌐 [Mental Saviours](https://mentalsaviours.vercel.app/) - A currently desktop only website to help people cope up with mental health. Under development currently.<br/>
-🔥 [Portfolio Website](https://anuragrege.vercel.app) - My personal portfolio website built with just HTML, CSS and Javascript.<br/>
+🔥 [Portfolio Website](https://anuragrege-portfolio.vercel.app/) - My personal portfolio website built with REACTJS and Framer Motion<br/>
 ✈️ [Arisepoint Website](https://arisepoint.in) - Developed a website for a startup company.<br/>
 👨‍⚕️ [DQCare Website](https://dqcare.in) - Developed a website for a startup company
 
@@ -31,7 +30,7 @@ I love taking on new challenges and making ideas come to life through code! 💡
 ### 🤝 Let's Connect
 
 -📫 You can reach me via email at anuragrege@gmail.com.
--🌐 Check out my portfolio website: [anuragrege.vercel.app](anuragrege.vercel.app)<br/>
+-🌐 Check out my portfolio website: [anuragrege.vercel.app](https://anuragrege-portfolio.vercel.app/)<br/>
 -💼 Connect with me on LinkedIn: [Anurag Rege](https://www.linkedin.com/in/anurag-rege-820703251/)</br>
 
 Feel free to explore my repositories and let's collaborate on exciting projects together! 🤗
